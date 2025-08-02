@@ -32,5 +32,5 @@ This project helps users estimate the **selling price of a house** using trained
 
 ---
 
-## 📂 Folder Structure
+
 
